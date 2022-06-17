@@ -43,12 +43,14 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION :
-4 DOF,
+4 DOF
  ![robo exp-1](https://user-images.githubusercontent.com/93427224/174299442-fcd05b91-e1c0-4d2f-8f59-7773b3d556f4.png)
 
- 6 DOF,
+
+ 6 DOF
  ![robo exp-2](https://user-images.githubusercontent.com/93427224/174299454-93a4e4af-689b-452f-b833-633a5b9d370f.png)
 
+ 
  
  ![ex-3](https://user-images.githubusercontent.com/93427224/174299492-2cf35900-57de-47f6-be99-1a68a6873e03.png)
 
