@@ -52,6 +52,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
  
  4 DOF
+ 
  ![robo exp-2](https://user-images.githubusercontent.com/93427224/174300802-fdbe766b-afd4-4577-988d-6e34942f2f99.png)
 
 
