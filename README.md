@@ -51,11 +51,10 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  ![robo exp-2](https://user-images.githubusercontent.com/93427224/174299454-93a4e4af-689b-452f-b833-633a5b9d370f.png)
 
  
- 6 DOF
- ![ex-3](https://user-images.githubusercontent.com/93427224/174299492-2cf35900-57de-47f6-be99-1a68a6873e03.png)
+ 4 DOF
+ ![robo exp-2](https://user-images.githubusercontent.com/93427224/174300802-fdbe766b-afd4-4577-988d-6e34942f2f99.png)
 
- 
- 
+
  ### PLOT 
  
  ![exp-4](https://user-images.githubusercontent.com/93427224/174299474-364e0d47-bd3e-4e39-af77-2d747b07572e.png)
